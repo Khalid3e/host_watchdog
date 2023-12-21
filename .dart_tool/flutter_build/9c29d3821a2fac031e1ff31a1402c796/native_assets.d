@@ -1,0 +1,1 @@
+ C:\\Users\\Elkadiri.Khalid\\IdeaProjects\\host_watchdog\\.dart_tool\\flutter_build\\9c29d3821a2fac031e1ff31a1402c796\\native_assets.yaml: 
